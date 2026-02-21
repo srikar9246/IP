@@ -1,0 +1,7 @@
+{
+  "name": "AI Creative Studio",
+  "description": "Professional-grade content creation platform powered by Gemini AI for marketing, social media, and editorial content.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
